@@ -17,13 +17,11 @@ So, most of the equations we find in Engineering/Physics are differential equati
 
 Differential Equations are obtained by differentiation ordinary equations and eliminating arbitary constants.
 
-Example: 
-$$
-y = A \sin x + B \cos x  \\
-\frac{dy}{dx} = A \cos x - B\sin x \\
-\frac{d^2y}{dx^2} = -A\sin x - B\cos x\\
-\frac{d^2y}{dx^2} + y = 0
-$$
+Example: \
+$y = A \sin x + B \cos x$ \
+$\frac{dy}{dx} = A \cos x - B\sin x$ \
+$\frac{d^2y}{dx^2} = -A\sin x - B\cos x$ \
+$\frac{d^2y}{dx^2} + y = 0$
 
 The last equation is a differential equation since it does not contain any arbitary constants.
 
